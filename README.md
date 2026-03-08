@@ -14,4 +14,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/NitinPatyal03/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/NitinPatyal03/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
