@@ -19,6 +19,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/NitinPatyal03/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/NitinPatyal03/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -40,4 +41,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NitinPatyal03/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/NitinPatyal03/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/NitinPatyal03/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
