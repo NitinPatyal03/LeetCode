@@ -13,6 +13,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/NitinPatyal03/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/NitinPatyal03/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 ## Math
 | Problem Name | Difficulty |
