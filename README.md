@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/NitinPatyal03/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/NitinPatyal03/LeetCode/tree/main/0177-nth-highest-salary/) | Medium |
+| [0178-rank-scores](https://github.com/NitinPatyal03/LeetCode/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/NitinPatyal03/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/NitinPatyal03/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/NitinPatyal03/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
